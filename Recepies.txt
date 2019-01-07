@@ -5,7 +5,8 @@ Welcome to kitchen!
 Eggs & potatoes
 Chicken
 
-
+Beans
+Pizza
 
 Thank you!
 
